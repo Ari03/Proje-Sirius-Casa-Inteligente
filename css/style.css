@@ -1,0 +1,100 @@
+.nav {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+@font-face {
+	font-family: titillium;
+	src:url("fonts/Titillium-Thin.otf");
+}
+
+#acao-casa {
+	display: inline-block;	
+}
+
+#slider {
+	width: 160px;
+    left: 90px;	
+}
+
+p {
+	font-size: 12pt;
+    position: absolute;
+    top: 9px;
+}
+
+.navbar {
+  border-radius: 0px;
+}
+
+.modal-dialogue {
+	
+}
+
+.bloco {
+    margin-top: 30px;
+    color: white;
+   /* background-color: black; /* cor anterior -> black */
+    height: 150px;
+    padding: 10px 10px 10px 10px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+
+}
+
+.icon {
+	height: 150px;
+	left: 25%;
+  	margin-left: -21px;
+  	position: absolute;
+  	margin-top: -36px;
+  	top: 36%;
+  	width: 193px;
+}
+
+.navbar navbar-inverse nav {
+	background-color: #3a6eb0;
+}
+
+.bloco-group {
+
+}
+
+.corpo {
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+
+.texto-rodape {
+    color: #808080;
+	font-family: titillium;
+    font-size: 12pt;
+    position: relative;
+    top: 14px;
+
+}
+
+.pad {
+    padding-top:15px;
+    padding-bottom:15px;
+
+}
+
+img.logo {
+	position: relative;
+	bottom: 26px;
+	height: 63px;
+}
+
+a {
+	cursor: pointer;
+}
+
+
+#input-select,
+#input-number {
+	padding: 7px;
+	margin: 15px 5px 5px;
+	width: 70px;
+}
